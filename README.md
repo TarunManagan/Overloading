@@ -24,9 +24,9 @@ Algorithm:
     void display(){
         cout<<"Display output: "<<a<<endl;
     }
---> STEP 5: Instantiation of object in main function
---> STEP 6: Print the output
---> STEP 7: STOP
+--> STEP 4: Instantiation of object in main function
+--> STEP 5: Print the output
+--> STEP 6: STOP
 
 OUTPUT
 Display output: 10
@@ -53,9 +53,9 @@ Algorithm:
     void display(){
         cout<<"Output is: "<<c<<endl;
     }
---> STEP 5: Instantiation of object in main function
---> STEP 6: Print the output
---> STEP 7: STOP
+--> STEP 4: Instantiation of object in main function
+--> STEP 5: Print the output
+--> STEP 6: STOP
 
 OUTPUT
 Output is: 30
